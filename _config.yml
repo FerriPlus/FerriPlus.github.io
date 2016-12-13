@@ -36,7 +36,7 @@ encoding: utf-8
 timezone: Asia/Shanghai
 
 disqus:
-    shortname: ferrinfriends
+  shortname: ferrinfriends
 defaults:
   -
     scope:

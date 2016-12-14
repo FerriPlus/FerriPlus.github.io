@@ -31,6 +31,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+permalink: /posts/:year/:month/:day/:title.html
+
 highlighter: rouge
 encoding: utf-8
 timezone: Asia/Shanghai

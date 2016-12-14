@@ -28,6 +28,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -40,6 +41,26 @@ timezone: Asia/Shanghai
 
 disqus:
   shortname: ferrinfriends
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - day
+    - tags
+    - categories
+  layout: archive
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+  permalinks:
+    year: '/posts/:year/'
+    month: '/posts/:year/:month/'
+    day: '/posts/:year/:month/:day/'
+    tag: '/tags/:name/'
+    category: '/categories/:name/'
+
 defaults:
   -
     scope:

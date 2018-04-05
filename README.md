@@ -1,4 +1,4 @@
-# FerriNFriends.github.io
+# FerriPlus.github.io
 
 Branch `theme` is for jekyll theme changes.
 

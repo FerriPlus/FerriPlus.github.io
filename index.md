@@ -5,4 +5,5 @@
 layout: home
 redirect_from:
   - /posts/
+redirect_to: https://ferriplus.gitlab.io
 ---

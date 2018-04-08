@@ -3,6 +3,7 @@ layout: post
 title:  "How to `git add` only non-EOL changes"
 date:   2018-04-12 20:02:00 +08:00
 categories: coding git
+redirect_to: https://ferriplus.gitlab.io/posts/2018/04/12/git-add-only-non-eol-changes.html
 ---
 Formatting and whitespace issues are frustrating and subtle problems that many developers encounter when collaborating, especially cross-platform. It's very easy for patches or other collaborated work to introduce subtle whitespace changes because editors "smartly" introduce them. And if your files ever touch a Windows system, their line endings might be replaced. 
 

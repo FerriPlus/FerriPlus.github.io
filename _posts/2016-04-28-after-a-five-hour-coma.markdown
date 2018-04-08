@@ -3,6 +3,7 @@ layout: post
 title:  "苏马休克五小时起死回生记"
 date:   2016-04-28 21:00:00 +08:00
 categories: running
+redirect_to: https://ferriplus.gitlab.io/posts/2016/04/28/after-a-five-hour-coma.html
 ---
 口述者第一次参加半马比赛，在19公里处休克，被送重症监护，被开出病危通知，最终转危为安。他回忆口述此事，意在提醒跑马者注意自我保护。
 

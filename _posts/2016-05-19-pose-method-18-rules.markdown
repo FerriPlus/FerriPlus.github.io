@@ -5,6 +5,7 @@ date:   2016-05-19 09:00:00 +08:00
 categories: running
 redirect_from:
   - /posts/2015/05/19/pose-method-18-rules.html
+redirect_to: https://ferriplus.gitlab.io/posts/2016/05/19/pose-method-18-rules.html
 ---
 1.  Change support from one leg to another.  
     双脚轮流转换支撑

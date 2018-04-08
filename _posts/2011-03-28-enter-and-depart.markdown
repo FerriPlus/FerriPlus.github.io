@@ -3,6 +3,7 @@ layout: post
 title:  "Enter to grow in wisdom; depart to serve better thy country and thy kind"
 date:   2011-03-28 22:56:00 +08:00
 categories: quotes
+redirect_to: https://ferriplus.gitlab.io/posts/2011/03/28/enter-and-depart.html
 ---
 最近看了一期非诚勿扰（[安田失败退场](http://v.youku.com/v_show/id_XODE2MTY4Nzcy.html)）。  
 里面提到了写在哈佛某个校门内外的两句话：[Enter to grow in wisdom](http://www.flickr.com/photos/cambridgemarealestate/4711227319/); [depart to serve better thy country and thy kind](http://www.flickr.com/photos/eileansiar/2952980574/). ([by Charles William Eliot](http://www.harvard.edu/president/speech/2009/veterans-day-remarks-by-harvard-president-drew-faust-2009))  

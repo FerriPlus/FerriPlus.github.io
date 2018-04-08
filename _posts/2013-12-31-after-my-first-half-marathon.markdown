@@ -3,6 +3,7 @@ layout: post
 title:  "第一个半程马拉松之后"
 date:   2013-12-31 20:23:02 +08:00
 categories: running
+redirect_to: https://ferriplus.gitlab.io/posts/2013/12/31/after-my-first-half-marathon.html
 ---
 \- 跑步
 

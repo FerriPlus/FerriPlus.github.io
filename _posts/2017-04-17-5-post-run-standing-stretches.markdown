@@ -3,6 +3,7 @@ layout: post
 title:  "5 post-run standing stretches"
 date:   2017-04-17 20:49:00 +08:00
 categories: running
+redirect_to: https://ferriplus.gitlab.io/posts/2017/04/17/5-post-run-standing-stretches.html
 ---
 ![The legs of runners in a race](/assets/5-stretches/cover_roberto_ferrari.jpg)
 

@@ -3,6 +3,7 @@ layout: post
 title:  "科学的方法，公正的态度，果断的决心"
 date:   2011-03-28 21:15:00 +0800
 categories: quotes
+redirect_to: https://ferriplus.gitlab.io/posts/2011/03/28/two-questions-ckc.html
 ---
 # 科学的方法，公正的态度，果断的决心
 

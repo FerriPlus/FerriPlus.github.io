@@ -3,6 +3,7 @@ layout: post
 title:  "Some quotes from the book 7 Habits of Highly Effective People"
 date:   2012-10-07 14:53:58 +08:00
 categories: quotes
+redirect_to: https://ferriplus.gitlab.io/posts/2012/10/07/7-habits-quotes.html
 ---
 Habit 1: Be Proactive  
 -- Principles of Personal Vision  

@@ -3,6 +3,7 @@ layout: post
 title:  "20-minute mat pilates workout for all levels"
 date:   2017-07-30 15:05:00 +08:00
 categories: running
+redirect_to: https://ferriplus.gitlab.io/posts/2017/07/30/mat-pilates-for-all-levels.html
 ---
 ![20-Minute Mat Pilates Core Routine For Runners](/assets/2017/07/mat-pilates/pilates-workout-feature-image-726x472.png)
 

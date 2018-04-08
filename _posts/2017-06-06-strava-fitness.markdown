@@ -3,6 +3,7 @@ layout: post
 title:  "Strava Fitness & Freshness chart"
 date:   2017-06-06 22:54:00 +08:00
 categories: running
+redirect_to: https://ferriplus.gitlab.io/posts/2017/06/06/strava-fitness.html
 ---
 Strava Fitness and Freshness considers your heart rate based Suffer Score and power based Training Load to track your levels of fitness, fatigue and form over time.
 

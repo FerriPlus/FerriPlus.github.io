@@ -3,6 +3,7 @@ layout: post
 title: "The Zen of Python, by Tim Peters"
 date:   2010-11-02 22:07:00 +08:00
 categories: coding
+redirect_to: https://ferriplus.gitlab.io/posts/2010/11/02/the-zen-of-python.html
 ---
 The Zen of Python, by Tim Peters  
 

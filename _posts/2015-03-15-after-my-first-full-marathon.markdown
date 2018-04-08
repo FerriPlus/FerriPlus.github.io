@@ -3,6 +3,7 @@ layout: post
 title:  "第一个全程马拉松之后"
 date:   2015-03-15 21:37:57 +08:00
 categories: running
+redirect_to: https://ferriplus.gitlab.io/posts/2015/03/15/after-my-first-full-marathon.html
 ---
 本文原先预计在14年12月2日写完的，拖到了现在。
 

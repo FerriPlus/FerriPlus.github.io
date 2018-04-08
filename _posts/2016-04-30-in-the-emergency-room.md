@@ -3,6 +3,7 @@ layout: post
 title: 急诊室见闻
 date: 2016-04-30 00:05:58 +08:00
 categories: LIGIS
+redirect_to: https://ferriplus.gitlab.io/posts/2016/04/30/in-the-emergency-room.html
 ---
 上周日不幸因为急病去了住处附近的医院的急诊室。貌似是第一次，也不想有更多次。
 

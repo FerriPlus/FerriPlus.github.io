@@ -27,9 +27,12 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
+
+permalink: /posts/:year/:month/:day/:title.html
 
 highlighter: rouge
 encoding: utf-8

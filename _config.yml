@@ -34,3 +34,13 @@ exclude:
 highlighter: rouge
 encoding: utf-8
 timezone: Asia/Shanghai
+
+disqus:
+    shortname: ferrinfriends
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      comments: true

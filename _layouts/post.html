@@ -14,9 +14,9 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
       | <span class="post-categories">Categories:
-        {%- for category in page.categories -%}
+        {% for category in page.categories %}
           <a class="category" href="{{ site.baseurl }}/categories/{{ category | slugify }}">{{ category }}</a>
-        {%- endfor -%}
+        {% endfor %}
       </span>
       {%- if page.tags != empty -%}
         | <span class="post-tags">Tags:
